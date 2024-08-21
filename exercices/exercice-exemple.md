@@ -1,0 +1,1 @@
+![exercice-exemple](./photos/MCD1.png)
